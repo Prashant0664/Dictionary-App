@@ -1,0 +1,37 @@
+{
+    "name": "Your Dictionary",
+    "short_name": "Your Dictionary",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons":[
+        {
+            "src": "maskable_icon2.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "maskable"
+          },
+          {
+            "src": "images1.png",
+            "type": "image/png",
+            "sizes": "192x192"
+          },
+          {
+            "src": "images256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+          },
+          {
+            "src": "images384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+          },
+          {
+            "src": "images512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+          }
+    ]
+  }
