@@ -17,7 +17,7 @@ const Navbar = () => {
           <div className='text-slate-200 m-2 mx-6 w-[10%]'>
             <div className='flex flex-row '>
               <a href="https://github.com/Prashant0664/Dictionary-App"><GitHubIcon className="transition-all duration-1000 mr-2 hover:text-slate-100 hover:scale-125"/></a>
-              <a href="www.linkedin.com/in/prashant-693591228"><LinkedInIcon className='transition-all duration-1000 mr-2 hover:text-slate-100 hover:scale-125'/></a>
+              <a href="https://www.linkedin.com/in/prashant-693591228"><LinkedInIcon className='transition-all duration-1000 mr-2 hover:text-slate-100 hover:scale-125'/></a>
             </div>
           </div>
         </nav>
