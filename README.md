@@ -1,4 +1,33 @@
-# Getting Started with Create React App
+# Dictionary App
+## A Dictionary using React, Tailwind, axios, API etc.
+
+A dictionary is a great companion to stretch a small vocabulary. When you come across a word you're not familiar with, a dictionary helps you by defining the word and giving you examples of its use in a sentence. If you hear the word rather than reading it you may not be sure how to spell it.
+<hr>
+
+
+
+
+<hr>
+
+### Features 
+⚡️Modern UI Design + Reveal Animations<br>
+⚡️Fully Responsive<br>
+⚡️Valid HTML5 & CSS3<br>
+⚡️Downloadable App available
+⚡️Well organized documentation<br>
+⚡️Made Using React, Tailwind, axios, API etc.<br>
+⚡️Support Audio output<br>
+<br>
+<hr>
+
+### Why do you need a portfolio?
+- Professional way to showcase your work<br>
+- Increases your visibility and online presence<br>
+- Shows you’re more than just a resume<br>
+
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
